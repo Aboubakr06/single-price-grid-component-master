@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  (https://www.frontendmentor.io/solutions/)
+- Solution URL:  (https://www.frontendmentor.io/solutions/single-price-grid-component-UhEyMraLCp)
 - Live Site URL: (https://comforting-lebkuchen-9afefa.netlify.app/)
 
 ## My process
